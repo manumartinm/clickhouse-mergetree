@@ -1,0 +1,2 @@
+/usr/bin/ar qc libclickhouse_mergetree.a CMakeFiles/clickhouse_mergetree.dir/src/row.cpp.o CMakeFiles/clickhouse_mergetree.dir/src/granule.cpp.o CMakeFiles/clickhouse_mergetree.dir/src/serialization.cpp.o CMakeFiles/clickhouse_mergetree.dir/src/sparse_index.cpp.o CMakeFiles/clickhouse_mergetree.dir/src/memtable.cpp.o CMakeFiles/clickhouse_mergetree.dir/src/part.cpp.o CMakeFiles/clickhouse_mergetree.dir/src/merger.cpp.o CMakeFiles/clickhouse_mergetree.dir/src/merge_tree.cpp.o
+/usr/bin/ranlib libclickhouse_mergetree.a

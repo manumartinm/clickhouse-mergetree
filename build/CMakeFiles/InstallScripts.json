@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/manumartinm/Documents/proyectos/clickhouse_mergetree/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

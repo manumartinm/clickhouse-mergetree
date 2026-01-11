@@ -1,0 +1,4 @@
+/Users/manumartinm/Documents/proyectos/clickhouse_mergetree/build/CMakeFiles/clickhouse_mergetree.dir
+/Users/manumartinm/Documents/proyectos/clickhouse_mergetree/build/CMakeFiles/demo.dir
+/Users/manumartinm/Documents/proyectos/clickhouse_mergetree/build/CMakeFiles/edit_cache.dir
+/Users/manumartinm/Documents/proyectos/clickhouse_mergetree/build/CMakeFiles/rebuild_cache.dir
